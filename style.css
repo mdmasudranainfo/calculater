@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+}
+
+
+.mycalculter{
+    width: 500px;
+    height: 500px;
+    
+    margin: auto;
+    margin-top: 50px;
+}
+
+table td input[value]{
+    font-size: 30px;
+}
+
+#calculate[value]{
+    /* font-size: 40px; */
+    
+}
+#calculate{
+    font-size: 40px;
+}
